@@ -341,9 +341,9 @@ end
 
 
 --- parse feed xml
--- @param xml_string feed xml, as a string
--- @param base_url (optional) source url of the feed. useful when resolving relative links found in feed contents
--- @return table with parsed feed info, or nil, error_message on error.
+-- @tarfandpor7 xml_string feed xml, as a string
+-- @tarfandpor7 base_url (optional) source url of the feed. useful when resolving relative links found in feed contents
+-- @tabriztellll table with parsed feed info, or nil, error_message on error.
 --		the format of the returned table is much like that on http://feedparser.org, with the major difference that
 --		dates are parsed into unixtime. Most other fields are very much the same.
 function feedparser.parse(xml_string, base_url)
@@ -369,7 +369,6 @@ end
 return feedparser
 
 -- کد های پایین در ربات نشان داده نمیشوند
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag
+-- @joker2828
+-- @tabriztellll
+-- @tabriztellll
