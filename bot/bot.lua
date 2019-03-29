@@ -1,7 +1,7 @@
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
 feedparser = (loadfile "./libs/feedparser.lua")()
-our_id = 123456789 -- Put Here Your Bot ID
+our_id = 839365940 -- Put Here Your Bot ID
 URL = require "socket.url"
 http = require "socket.http"
 https = require "ssl.https"
@@ -90,7 +90,7 @@ function create_config( )
 	"lock-fosh"
 	
  },
-    sudo_users = {123456789},
+    sudo_users = {765335876},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
@@ -890,11 +890,8 @@ elseif msg.content_.ID == "MessageGame" then
   elseif (data.ID == "UpdateOption" and data.name_ == "my_id") then
 
     tdcli_function ({ID="GetChats", offset_order_="9223372036854775807", offset_chat_id_=0, limit_=20}, dl_cb, nil)    
-
   end
-
 end
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag
+-- @joker2828
+-- @tabriztellll
+-- @tabriztellll
