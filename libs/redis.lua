@@ -46,8 +46,7 @@ end
 
 return redis
 
--- کد های پایین در ربات نشان داده نمیشوند
--- http://permag.ir
--- @permag_ir
--- @permag_bots
--- @permag
+-- کد های پایین در ربات نشان داده نمیشود
+-- @joker2828
+-- @tabriztellll
+-- @tabriztellll
